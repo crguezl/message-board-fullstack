@@ -1,0 +1,6 @@
+[submodule "message-board-client"]
+	path = message-board-client
+	url = https://github.com/crguezl/message-board-client.git
+[submodule "message-board-server"]
+	path = message-board-server
+	url = https://github.com/crguezl/message-board-server.git

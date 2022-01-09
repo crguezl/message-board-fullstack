@@ -1,0 +1,20 @@
+{
+  "name": "message-board-fullstack",
+  "version": "1.0.0",
+  "description": "See [Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap](https://youtu.be/2xIoWm08SBM) YouTube video by Coding Garden (2h. 15 min. approx.) and reproduce the steps to build the full stack app",
+  "main": "index.js",
+  "scripts": {
+    "push": "git ci -am changes; git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crguezl/message-board-fullstack.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crguezl/message-board-fullstack/issues"
+  },
+  "homepage": "https://github.com/crguezl/message-board-fullstack#readme"
+}

@@ -1,7 +1,7 @@
 #  Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap
 
 See [Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap](https://youtu.be/2xIoWm08SBM) YouTube video
-by Coding Garden
+by Coding Garden (2h. 15 min. approx.) and reproduce the steps to build the full stack app
 
 
 ## Mongo

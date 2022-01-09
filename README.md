@@ -1,3 +1,9 @@
+#  Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap
+
+See [Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap](https://youtu.be/2xIoWm08SBM) YouTube video
+by Coding Garden
+
+
 ## Mongo
 
 Follow these steps to install MongoDB Community Edition using Homebrew's brew package manager. Be sure that you have followed the installation prerequisites above before proceeding.
